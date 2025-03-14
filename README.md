@@ -1,5 +1,5 @@
-<!-- For Installing Dependencies -->
-npm install
+## For Installing Dependencies -
+# npm install
 
-<!-- To run the application -->
-npm run dev
+## To run the application -
+# npm run dev
